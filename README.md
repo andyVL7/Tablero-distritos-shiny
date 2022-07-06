@@ -1,2 +1,2 @@
 # Tablero-distritos-shiny
-Tablero de dats de distritos shiny
+Tablero de datos de distritos shiny
